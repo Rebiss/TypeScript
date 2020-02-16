@@ -9,6 +9,8 @@
 
 Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
 
+![alt-text](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/nubelaco_ghost/2019/10/TypeScriptImage.jpeg)
+
 ## Installing
 
 For the latest stable version:
