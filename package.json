@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebiss/TypeScript.git"
+  },
+  "author": "Rebiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebiss/TypeScript/issues"
+  },
+  "homepage": "https://github.com/Rebiss/TypeScript#readme"
+}
