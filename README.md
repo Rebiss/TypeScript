@@ -25,6 +25,10 @@ For our nightly builds:
 npm install -g typescript@next
 ```
 
+```bash
+$tsc FILE_NAME
+```
+
 ## Contribute
 
 There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/master/CONTRIBUTING.md) to TypeScript.

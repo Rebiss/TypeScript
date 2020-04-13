@@ -3,7 +3,7 @@
  * ! Number, String, Boolean, null, underfind, Object, Symbol
  * !typeof operator
  */
-
+//@ts-check
 let isBool: boolean = "true";
 isBool = 42;
 isBool = false;
@@ -50,11 +50,12 @@ Object.Set; //3
 
 //Never Type
 
-const asa = "Barev";
+const asa = 11;
 
 const foo = (asa: string): never => {
   throw new Error(asa);
 };
+
 // return Function Error ??? (ardyunq chunecox function)
 
 // Object Type
