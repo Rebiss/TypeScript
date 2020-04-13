@@ -35,3 +35,6 @@ const rectD: RectArea = {
     return this.size.width * this.size.height
   }
 }
+
+
+//------------------------------------------
